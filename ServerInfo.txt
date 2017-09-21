@@ -1,0 +1,60 @@
+$BEGIN
+<?xml version="1.0" encoding="GB2312"?>
+<XMLSetup>
+  <ServerList>
+    <Group Name="A52LoJQyUZ93yYKOddl+Jay3juDj3rX-2DRvlhTP06ZjjlW4qh4">
+      <Server Name="AhGF81mMGiGuTd-QHS9BQkzMQYhtNGS8nhYPFmOOaZsNsXQ8K7e">
+        <Child Addrs="ayCPBnSkijuySh7LNPHf4Damby" Port="BsEdE6YXtVbbXuQb2W5syWouhi">Ce1Nxna1C+UYC0xbxy4mXsmVPi</Child>
+      </Server>
+      <Server Name="AhGF81mMGiGuTd-QHS9BQkzMQYhtNGS8nhYPFmOOaZsNsXQ8K7e">
+        <Child Addrs="dvqE-zykzs8iSU09BbYiZ+Y8Zq" Port="BsEdE6YXtVbbXuQb2W5syWouhi">AkbI3haNo809uuQU4n+GL8mQly</Child>
+      </Server>
+      <Server Name="Co2eVE1lGEXrtDHLc6QoCSioyy">
+        <Child Addrs="eKrO+dopAS6Kt0yDpghOlFkpIy" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">Co2eVE1lGEXrtDHLc6QoCSioyy</Child>
+      </Server>
+      <Server Name="B1uKT0Zhw8jE3cftoHXmTuA6qy">
+        <Child Addrs="eKrO+dopAS6Kt0yDpghOlFkpIy" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">B1uKT0Zhw8jE3cftoHXmTuA6qy</Child>
+      </Server>
+      <Server Name="Co2eVE1lGEXrtDHLc6QoCSioyy">
+        <Child Addrs="eKrO+dopAS6Kt0yDpghOlFkpIy" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">Co2eVE1lGEXrtDHLc6QoCSioyy</Child>
+      </Server>
+      <Server Name="C17BYLPXpcysfGM-M3YI+pbnKa">
+        <Child Addrs="ayCPBnSkijuySh7LNPHf4Damby" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">C17BYLPXpcysfGM-M3YI+pbnKa</Child>
+      </Server>
+      <Server Name="Co2eVE1lGEXrtDHLc6QoCSioyy">
+        <Child Addrs="eKrO+dopAS6Kt0yDpghOlFkpIy" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">nhpsXcKpYRBpGWlzVxQnjL32</Child>
+      </Server>
+      <Server Name="B1uKT0Zhw8jE3cftoHXmTuA6qy">
+        <Child Addrs="eKrO+dopAS6Kt0yDpghOlFkpIy" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">B1uKT0Zhw8jE3cftoHXmTuA6qy</Child>
+      </Server>
+      <Server Name="Co2eVE1lGEXrtDHLc6QoCSioyy">
+        <Child Addrs="eKrO+dopAS6Kt0yDpghOlFkpIy" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">Ad41Kh521gb7Zy00eGYVx6BYSi</Child>
+      </Server>
+      <Server Name="cLHqj38y8UL6O7S3XWiLZTlC3i">
+        <Child Addrs="EcToE5vKhVX2f-jSD0t7avPQey" Port="A5Orcv-ZR76hOhe-kVvoxfZh3a">e2tms-5mqV-W-5wuaCvrXpIEoi</Child>
+      </Server>
+    </Group>
+  </ServerList>
+  <Url>
+    <Loginframe>bJL4Td6JPGW8MyymZAfNPAwwecR1vjAf7ddYrG7mjOsw91-mnry</Loginframe>
+    <ContactGM></ContactGM>
+    <Payment></Payment>
+    <Register/>
+    <ChangePass/>
+    <LostPass/>
+    <Payment2></Payment2>
+    <Home></Home>
+    <ExitUrl></ExitUrl>
+  </Url>
+  <UpDate/>
+  <ServerConfig>
+    <Sever1>aKB3rZLteSaUPCKLUYeDavh2A1Hm6h-1Tq3UwZFPa-um4knUjVEdT4MSqGwWO+mctcgJODZ4NEQT</Sever1>
+    <Sever2>AGo7BN2JfhZsuQjogzwq7emtXcMcgK2XWqami72KLQuIuyBOIs4</Sever2>
+    <Sever3>AGo7BN2JfhZsuQjogzwq7emtXcMcgK2XWqami72KLQuIuyBOIs4</Sever3>
+    <Sever4>aKB3rZLteSaUPCKLUYeDavh2A1Hm6h-1Tq3UwZFPa-um4knUjVEdT4MSqGwWO+mctcgJODZ4NEQT</Sever4>
+    <Severz>jt4GtG9hDBNxUTVbXuOYVTmMQHEEFJYeF175SyX0msxuhGPLX7AWrdpjKgUvzywiObcUkwAxRBNkR6Sf34Xn1xoazje7Rniya8id</Severz>
+    <GameName>dx5ezyaJRm9sIaoCjCrl+HzOLa</GameName>
+    <ClientCount>Xy3Ae0XC1Cze4rycAP1DDlJB</ClientCount>
+  </ServerConfig>
+</XMLSetup>
+$END
